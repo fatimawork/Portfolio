@@ -38,7 +38,7 @@ const ExperienceCard: React.FC<TExperience> = (experience) => {
           className="text-secondary text-[16px] font-semibold"
           style={{ margin: 0 }}
         >
-          {experience.companyName}
+          {/* {experience.companyName} */}
         </p>
       </div>
 

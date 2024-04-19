@@ -1,4 +1,4 @@
-import logo from "./logo.png";
+import logo from "./web.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -20,7 +20,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-
+import angular from "./tech/angular.png";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
@@ -59,4 +59,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  angular
 };
